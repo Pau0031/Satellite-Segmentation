@@ -87,5 +87,13 @@ original dataset download：
 
 密码：yqj2
 
+## 2023年1月20日更新
+Chemical Transparent Apparatus Research is a project for chemical lab with AI, it will update everytime.  
+The code about ASPP-SOLOv2 in ./dataset, please config your paddlepaddle env.  
+The dataset saved in Baidu Cloud Service, you can download with the shared link:  
+link：https://pan.baidu.com/s/1Drhm56Ip7mfeJQsT3hsiGA  
+code：aa34  
+If you have some problems, please tell us in Issues!  
+
 
 Please visit my blog for more details: http://www.cnblogs.com/skyfsm/p/8330882.html
